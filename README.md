@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/JeanNoel98/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JeanNoel98/osTicket-Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JeanNoel98/Configuring-On-premises-Active-Directory-within-Azure-VMs/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>Apple MacOS Terminal</b>
   - [Wiping USB drive on MacOS using Terminal](https://github.com/joshmadakorcc/configure-ad)
